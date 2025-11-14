@@ -160,6 +160,6 @@ The mission of *Our World in Data* is to make data and research on the world's l
 
 ## How to cite this data?
 
-If you are using this dataset, please cite both [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#article-citation) and the underlying data source(s).
+If you are using this dataset, please cite both [Our World in Data](https://ourworldindata.org/energy#article-citation) and the underlying data source(s).
 
 Please follow [the guidelines in our FAQ](https://ourworldindata.org/faqs#how-should-i-cite-your-data) on how to cite our work.
